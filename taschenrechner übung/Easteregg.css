@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+.easteregg{
+    display: flex;
+    float: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:yellow;
+    border-radius: 10px;
+}
